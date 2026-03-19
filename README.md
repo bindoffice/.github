@@ -3,8 +3,8 @@
 ## About 关于 
 
 Self-hosted office suite. Google workspace alternative.  
-https://hedwi.com 
-[documentation](https://hedwi.com/document/mail-suite/zh-hans/) 
+https://bindoffice.com 
+[documentation](https://bindoffice.com/document/mail-suite/zh-hans/) 
 
 ![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1) 
 
