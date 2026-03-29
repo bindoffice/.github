@@ -12,9 +12,11 @@
 
 Self-hosted office suite. Google workspace alternative.  
 https://bindoffice.com 
-[documentation](https://bindoffice.com/document/mail-suite/zh-hans/) 
+[documentation](https://bindoffice.github.io/documentation/) 
 
-![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1) 
+
+
+![bind office](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1) 
 
 ## Contact
 [Discord](https://discord.gg/rS6FUqNvG5) 
