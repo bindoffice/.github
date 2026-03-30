@@ -12,6 +12,7 @@
 
 Self-hosted office suite. Google workspace alternative.  
 https://bindoffice.com 
+
 [documentation](https://bindoffice.github.io/documentation/) 
 
 
