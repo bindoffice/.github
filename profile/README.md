@@ -16,7 +16,7 @@ https://bindoffice.com
 
 
 
-![bind office](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1) 
+![bind office](https://raw.githubusercontent.com/bindoffice/.github/refs/heads/main/images/demo-image.png) 
 
 ## Contact
 [Discord](https://discord.gg/rS6FUqNvG5) 
