@@ -20,7 +20,7 @@ https://bindoffice.com
 ![bind office](https://raw.githubusercontent.com/bindoffice/.github/refs/heads/main/images/demo-image.png) 
 
 ## Contact
-[Discord](https://discord.gg/rS6FUqNvG5) 
+[Telegram](https://t.me/bindoffice) 
 
 [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=4PbmCghBcHG4t_xncFgYQNOVYKPazX5x&jump_from=webapi&authKey=QR7bn5WlKKo2el+vOiPb1RmacliTt+dxgQTfC8N5anukJW20+9TxmKqdp24q4AXx) 
 
